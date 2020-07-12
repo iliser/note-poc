@@ -1,0 +1,10 @@
+{
+    "path-autocomplete.pathMappings": {
+        "/": "${folder}/static",
+        // "$root": "${folder}/static"
+        
+    },
+    "search.exclude": {
+        "**/__sapper__": true
+    }
+}

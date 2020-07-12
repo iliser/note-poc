@@ -1,0 +1,1 @@
+This folder created to provide easy inline svg images, this reduces request count
